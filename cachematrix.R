@@ -1,7 +1,7 @@
 ##################################################################
-## Description: The functions will allow the user to store the inverse 
-## of a matrix in another environment so it can be globaly visible 
-## to other functions without recalulation.
+## Description: These functions will allow a user to cache the inverse 
+## of a matrix in another environment so it can be globally visible 
+## without recalulation.
 #
 ## makeCacheMatrix - Takes a matrix and returns a set of functions you can use to store the inverse in a cache.
 ## setmatrix - set the matrix
